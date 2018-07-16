@@ -1,0 +1,8 @@
+{
+  "name": "FinanceTracker",
+  "app_id": "66b39559",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
